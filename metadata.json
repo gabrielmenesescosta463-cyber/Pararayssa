@@ -1,0 +1,6 @@
+{
+  "name": "Declaração de Amor - Rayssa",
+  "description": "Página mobile romântica com envelope animado, contador de tempo em tempo real, carta de amor, coração raspadinha e álbum contínuo com galeria de fotos e 10 coisas que mais amo em você.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
